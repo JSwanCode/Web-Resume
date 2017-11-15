@@ -1,0 +1,57 @@
+html{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	height: 100%;
+}
+
+.container{
+	padding: 25px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#info{
+	background-color: orange;
+	width: 250px;
+	padding: 50px;
+	margin-left: 50px;
+	float: left;
+	box-shadow: 5px 5px 5px #888888;
+	border: 5px solid black;
+}
+
+.eduWkHst{
+	background-color: green;
+	width: 650px;
+	margin-left: 520px;
+	padding: 15px;
+	margin-top: -2px;
+	margin-bottom: 20px;
+	box-shadow: 5px 5px 5px #888888
+	border: 5px solid black;
+}
+
+img{
+	border-radius: 50%;
+	border: 5px solid black;
+}
+
+span{
+	margin-right: 10px
+	line-height: 2.0;
+}
+
+footer{
+	text-align: center;
+	background-color: orange;
+	margin: -30px -20px;
+	padding: 20px;
+	border-top: 5px solid green;
+}
+
+.textCenter{
+	text-align: center;
+}
